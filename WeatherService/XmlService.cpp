@@ -2,7 +2,6 @@
 #include "pugixml.hpp"
 #include "pugixml.cpp"
 #include "Weather.h"
-#include "Weather.cpp"
 
 Weather XmlService::getWeather(std::string s)
 {
